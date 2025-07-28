@@ -1,6 +1,4 @@
-#5480684_M.CHAITANYA RAJU
+# 5480684_M.CHAITANYA RAJU
 
-![Dino Image 1]("C:\Users\CHAITANYA RAJU\Downloads\5480684_M.CHAITANYA RAJU\Img\Git.png")
-![Dino Image 2]("C:\Users\CHAITANYA RAJU\Downloads\5480684_M.CHAITANYA RAJU\Img\Agile.png")
-
-This project explores...
+<img src="https://github.com/chaitanyaraju12/5480684_M.CHAITANYA-RAJU/blob/main/Img/Agile.png" alt="AGILE Certificate" >
+<img src="https://github.com/chaitanyaraju12/5480684_M.CHAITANYA-RAJU/blob/main/Img/Git.png" alt="Git Certificate" >
